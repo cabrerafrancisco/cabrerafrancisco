@@ -34,7 +34,7 @@ I am passionate about the world of technology. I am currently training as a web 
 
 <a target="_blank" href="https://www.linkedin.com/in/francabrera97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cabrera%20Francisco-blue?style=flat-square&logo=linkedin"></a>
 
-<a target="_blank" href="https://www.instagram.com/valentin_sznitowski/?hl=es-la"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Cabrera Francisco-lightblue?style=flat-square&logo=twitter"></a>
+<a target="_blank" href="https://twitter.com/FranciiCasm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Cabrera Francisco-lightblue?style=flat-square&logo=twitter"></a>
 
 <a target="_blank" href="mailto:francabre97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francabre97@gmail.com-orange?style=flat-square&logo=gmail"></a>
 
