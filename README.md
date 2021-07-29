@@ -28,17 +28,22 @@ I am passionate about the world of technology. I am currently training as a web 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
 <p align="center">
 
+<!-- 
 <a target="_blank" href="https://www.linkedin.com/in/francabrera97/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cabrera%20Francisco-blue?style=flat-square&logo=linkedin"></a>
-
-<a target="_blank" href="https://twitter.com/FranciiCasm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Cabrera Francisco-lightblue?style=flat-square&logo=twitter"></a>
 
 <a target="_blank" href="mailto:francabre97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-francabre97@gmail.com-orange?style=flat-square&logo=gmail"></a>
 
+ -->
+    
+<a target="_blank" href="https://twitter.com/FranciiCasm"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Cabrera Francisco-lightblue?style=flat-square&logo=twitter"></a>
+
+
+[![Linkedin](https://img.shields.io/badge/-Francisco%20Cabrera-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francabrera97/)](https://www.linkedin.com/in/francabrera97/)
+    
+[![Mail](https://img.shields.io/badge/-francabre97@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red)](mailto:francabre97@gmail.com)
+    
 </p>
 
 <hr>
